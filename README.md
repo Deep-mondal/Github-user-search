@@ -7,9 +7,7 @@ A simple web application built with TypeScript, HTML, and CSS that fetches and d
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
